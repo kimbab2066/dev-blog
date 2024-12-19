@@ -10,6 +10,7 @@
 
 2. **Backend Development**  
    - [Spring](Backend/Spring/)  
+      - [DI와 IoC 기본 지식](Backend/Spring/1_DI-and-IoC-Basics.md)
    - [Kotlin](Backend/Kotlin/)  
    - [Server-Side Development](Backend/Server-Side-Development/)  
 
