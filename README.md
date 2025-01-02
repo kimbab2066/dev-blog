@@ -11,6 +11,8 @@
 2. **Backend Development**  
    - [Spring](Backend/Spring/)  
       - [DI와 IoC 기본 지식](Backend/Spring/1_DI-and-IoC-Basics.md)
+      - [DI 실습 예제](Backend/Spring/2_DI-Practice.md)  
+      - [To-Do 리스트 실전 사례](Backend/Spring/3_DI-Real-World-Example-ToDo-App.md) (작성 예정)  
    - [Kotlin](Backend/Kotlin/)  
    - [Server-Side Development](Backend/Server-Side-Development/)  
 
