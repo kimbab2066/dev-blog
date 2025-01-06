@@ -14,7 +14,7 @@
       - [DI 실습 예제](Backend/Spring/2_DI-Practice.md)  
       - [To-Do 리스트 실전 사례](Backend/Spring/3_DI-Real-World-Example-ToDo-App.md)  
       - [Spring Boot 기본 설정](Backend/Spring/4_Spring-Boot-Basics.md)  
-      - [Spring Data JPA로 데이터베이스 연결](Backend/Spring/5_Spring-Data-JPA.md) (작성 예정)  
+      - [Spring Data JPA로 데이터베이스 연결](Backend/Spring/5_Spring-Data-JPA.md)  
       - [Spring Security로 인증과 권한 관리](Backend/Spring/6_Spring-Security.md) (작성 예정)  
       - [Spring AOP와 트랜잭션 관리](Backend/Spring/7_Spring-AOP-and-Transaction.md) (작성 예정)  
 
