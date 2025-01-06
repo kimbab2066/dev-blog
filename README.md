@@ -10,11 +10,24 @@
 
 2. **Backend Development**  
    - [Spring](Backend/Spring/)  
-      - [DI와 IoC 기본 지식](Backend/Spring/1_DI-and-IoC-Basics.md)
+      - [DI와 IoC 기본 지식](Backend/Spring/1_DI-and-IoC-Basics.md)  
       - [DI 실습 예제](Backend/Spring/2_DI-Practice.md)  
-      - [To-Do 리스트 실전 사례](Backend/Spring/3_DI-Real-World-Example-ToDo-App.md) (작성 예정)  
+      - [To-Do 리스트 실전 사례](Backend/Spring/3_DI-Real-World-Example-ToDo-App.md)  
+      - [Spring Boot 기본 설정](Backend/Spring/4_Spring-Boot-Basics.md)  
+      - [Spring Data JPA로 데이터베이스 연결](Backend/Spring/5_Spring-Data-JPA.md) (작성 예정)  
+      - [Spring Security로 인증과 권한 관리](Backend/Spring/6_Spring-Security.md) (작성 예정)  
+      - [Spring AOP와 트랜잭션 관리](Backend/Spring/7_Spring-AOP-and-Transaction.md) (작성 예정)  
+
    - [Kotlin](Backend/Kotlin/)  
+      - [Kotlin 기본 문법](Backend/Kotlin/1_Kotlin-Basics.md) (작성 예정)  
+      - [코틀린을 활용한 간단한 API 만들기](Backend/Kotlin/2_Kotlin-API-Building.md) (작성 예정)  
+      - [코틀린 확장 함수와 고급 문법](Backend/Kotlin/3_Kotlin-Advanced-Features.md) (작성 예정)  
+
    - [Server-Side Development](Backend/Server-Side-Development/)  
+      - [HTTP와 RESTful API 개념](Backend/Server-Side-Development/1_HTTP-and-RESTful.md) (작성 예정)  
+      - [API 설계 원칙과 Best Practices](Backend/Server-Side-Development/2_API-Design-Best-Practices.md) (작성 예정)  
+      - [서버와 클라이언트 간 데이터 통신](Backend/Server-Side-Development/3_Server-Client-Communication.md) (작성 예정)  
+      - [JWT 기반 인증과 세션 관리](Backend/Server-Side-Development/4_JWT-and-Session-Management.md) (작성 예정)  
 
 3. **Mobile Development**  
    - [Android](Mobile/Android/)  
