@@ -8,7 +8,7 @@
 ## 주요 정렬 알고리즘
 
 ### 1. **버블 정렬 (Bubble Sort)**  
-- 설명: 인접한 두 요소를 비교하여 교환하며 정렬합니다.  
+- 인접한 두 요소를 비교하여 교환하며 정렬합니다.  
 - 시간 복잡도: O(n²)
 
 ```python
@@ -26,6 +26,7 @@ print(bubble_sort([5, 2, 9, 1, 5, 6]))
 ### 2. **퀵 정렬 (Quick Sort)**
    - 분할 정복(Divide and Conquer) 알고리즘으로 효율적입니다.
    - 시간 복잡도: O(n log n) (평균)
+
 ```python
 def quick_sort(arr):
     if len(arr) <= 1:
@@ -38,9 +39,11 @@ def quick_sort(arr):
 
 print(quick_sort([5, 2, 9, 1, 5, 6]))
 ```
+
 ### 3. **병합 정렬 (Merge Sort)**
    - 분할 정복 기법으로 안정적인 정렬 방식.
    - 시간 복잡도: O(n log n)
+
 ```python
 def merge_sort(arr):
     if len(arr) <= 1:
@@ -66,18 +69,18 @@ def merge(left, right):
 
 print(merge_sort([5, 2, 9, 1, 5, 6]))
 ```
+
+---
+
 ## 실습 문제
 
 1. [백준 2750번: 수 정렬하기](https://www.acmicpc.net/problem/2750)  
-   <details>
-   <summary>문제 설명</summary>
-   난이도: 브론즈 I  
-   N개의 수가 주어졌을 때, 이를 오름차순으로 정렬하는 프로그램을 작성하세요.
-   </details>
-
-2. [프로그래머스: K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)  
-   <details>
-   <summary>문제 설명</summary>
-   난이도: Level 1  
-   배열 array의 i번째 숫자부터 j번째 숫자까지 자르고 정렬했을 때, k번째에 있는 수를 구하세요.
-   </details>
+2. [백준 10989번: 수 정렬하기 3](https://www.acmicpc.net/problem/10989)  
+3. [백준 11650번: 좌표 정렬하기](https://www.acmicpc.net/problem/11650)  
+4. [프로그래머스: K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)  
+5. [프로그래머스: 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)  
+6. [프로그래머스: H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)  
+7. [프로그래머스: 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)  
+8. [프로그래머스: 정렬된 배열에서 특정 수의 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/43237)  
+9. [프로그래머스: 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  
+10. [프로그래머스: 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
