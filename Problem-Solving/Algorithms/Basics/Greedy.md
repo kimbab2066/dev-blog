@@ -94,5 +94,5 @@ print(get_min_coins(change, coins))  # 출력: 6
 8. [프로그래머스: 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 9. [프로그래머스: 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 10. [프로그래머스: 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
-11. [공주님의 정원](https://www.acmicpc.net/problem/2457)
-12. [택배](https://www.acmicpc.net/problem/8980)
+11. [백준 2457번: 공주님의 정원](https://www.acmicpc.net/problem/2457)
+12. [백준 8980번: 택배](https://www.acmicpc.net/problem/8980)
