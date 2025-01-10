@@ -96,3 +96,4 @@ print(get_min_coins(change, coins))  # 출력: 6
 10. [프로그래머스: 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 11. [백준 2457번: 공주님의 정원](https://www.acmicpc.net/problem/2457)
 12. [백준 8980번: 택배](https://www.acmicpc.net/problem/8980)
+13. [백준 1541번: 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
