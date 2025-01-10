@@ -59,6 +59,7 @@
 9. **Problem Solving**  
    - [코딩 테스트](Problem-Solving/Coding-Test/)  
    - [알고리즘 문제 풀이](Problem-Solving/Algorithms/)  
+   - [오답노트](Problem-Solving/Notes/)
 
 10. **Open Source**  
 
