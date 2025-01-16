@@ -99,16 +99,16 @@ print(binary_search_recursive(array, target, 0, len(array) - 1))  # 출력: 3
 ### 1. 기본 문제
 1. [백준 1920번: 수 찾기](https://www.acmicpc.net/problem/1920)  
 2. [백준 10816번: 숫자 카드 2](https://www.acmicpc.net/problem/10816)  
-3. [프로그래머스: 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  
-4. [백준 2644번: 촌수계산](https://www.acmicpc.net/problem/2644)
+3. [백준 2512번: 예산](https://www.acmicpc.net/problem/2512)
 
 ### 2. 응용 문제
-4. [프로그래머스: 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  
-5. [백준 2805번: 나무 자르기](https://www.acmicpc.net/problem/2805)  
-6. [프로그래머스: 예산](https://school.programmers.co.kr/learn/courses/30/lessons/43237)  
+4. [백준 2805번: 나무 자르기](https://www.acmicpc.net/problem/2805)  
+5. [프로그래머스: 예산](https://school.programmers.co.kr/learn/courses/30/lessons/43237)  
+6. [백준 2110번: 공유기 설치](https://www.acmicpc.net/problem/2110)  
+7. [백준 12015번: 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
 
 ### 3. 실전 문제
-7. [백준 2110번: 공유기 설치](https://www.acmicpc.net/problem/2110)  
 8. [백준 2470번: 두 용액](https://www.acmicpc.net/problem/2470)  
 9. [프로그래머스: 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  
-10. [백준 12015번: 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
+10. [프로그래머스: 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  
+11. [프로그래머스: 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  
