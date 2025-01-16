@@ -93,13 +93,19 @@ print(bfs(graph, 1))  # 출력: [1, 2, 3, 4, 5, 6, 7]
 
 ## 실습 문제
 
+### 1. 기본 문제
 1. [백준 1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)  
 2. [백준 2178번: 미로 탐색](https://www.acmicpc.net/problem/2178)  
 3. [백준 2606번: 바이러스](https://www.acmicpc.net/problem/2606)  
+
+### 2. 응용 문제
 4. [프로그래머스: 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  
 5. [프로그래머스: 아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)  
-6. [프로그래머스: 블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)  
-7. [백준 1707번: 이분 그래프](https://www.acmicpc.net/problem/1707)  
+6. [백준 1707번: 이분 그래프](https://www.acmicpc.net/problem/1707)  
+
+### 3. 실전 문제
+7. [프로그래머스: 블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)  
 8. [백준 7576번: 토마토](https://www.acmicpc.net/problem/7576)  
 9. [프로그래머스: 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)  
 10. [백준 1012번: 유기농 배추](https://www.acmicpc.net/problem/1012)
+
