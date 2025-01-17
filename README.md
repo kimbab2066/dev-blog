@@ -18,11 +18,6 @@
       - [Spring Security로 인증과 권한 관리](Backend/Spring/6_Spring-Security.md) (작성 예정)  
       - [Spring AOP와 트랜잭션 관리](Backend/Spring/7_Spring-AOP-and-Transaction.md) (작성 예정)  
 
-   - [Kotlin](Backend/Kotlin/)  
-      - [Kotlin 기본 문법](Backend/Kotlin/1_Kotlin-Basics.md) (작성 예정)  
-      - [코틀린을 활용한 간단한 API 만들기](Backend/Kotlin/2_Kotlin-API-Building.md) (작성 예정)  
-      - [코틀린 확장 함수와 고급 문법](Backend/Kotlin/3_Kotlin-Advanced-Features.md) (작성 예정)  
-
    - [Server-Side Development](Backend/Server-Side-Development/)  
       - [HTTP와 RESTful API 개념](Backend/Server-Side-Development/1_HTTP-and-RESTful.md) (작성 예정)  
       - [API 설계 원칙과 Best Practices](Backend/Server-Side-Development/2_API-Design-Best-Practices.md) (작성 예정)  
@@ -32,6 +27,9 @@
 3. **Mobile Development**  
    - [Android](Mobile/Android/)  
    - [Kotlin for Android](Mobile/Kotlin-for-Android/)  
+      - [Kotlin 기본 문법](Backend/Kotlin/1_Kotlin-Basics.md) (작성 예정)  
+      - [코틀린을 활용한 간단한 API 만들기](Backend/Kotlin/2_Kotlin-API-Building.md) (작성 예정)  
+      - [코틀린 확장 함수와 고급 문법](Backend/Kotlin/3_Kotlin-Advanced-Features.md) (작성 예정)  
 
 4. **DevOps & Tools**  
    - [CI/CD](DevOps-Tools/CI-CD/)  
@@ -57,8 +55,7 @@
    - [Microservices Architecture](Best-Practices-Architecture/Microservices-Architecture/)  
 
 9. **Problem Solving**  
-   - [코딩 테스트](Problem-Solving/Coding-Test/)  
-   - [알고리즘 문제 풀이](Problem-Solving/Algorithms/)  
+   - [알고리즘 개념](Problem-Solving/Algorithms/)  
    - [오답노트](Problem-Solving/Notes/)
 
 10. **Open Source**  
