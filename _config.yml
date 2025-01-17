@@ -1,15 +1,4 @@
 title: Dev Blog
 description: A blog for coding and problem-solving.
 author: kimbab2066
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-
-permalink: pretty
-paginate: 5
+theme: minima
