@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Problem Solving"
+    url: "/problem-solving/"
+  - title: "Algorithms"
+    url: "/algorithms/"
+  - title: "About"
+    url: "/about/"
