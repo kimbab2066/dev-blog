@@ -1,5 +1,34 @@
 # 기본 틀 정리
 
+## 1. 중복 없이 r개를 뽑는 조합 (itertools.combinations와 동일한 결과)
+```python
+def dfs(idx, path, n, r):
+    if len(path) == r:
+        print(path)
+        return
+
+    for i in range(idx, n):
+        dfs(i + 1, path + [arr[i]], n, r)
+
+arr = [10, 20, 30, 40]
+r = 2  # 2개를 뽑는 조합
+dfs(0, [], len(arr), r)
+```
+## 2. 중복을 허용하는 조합 (itertools.combinations_with_replacement와 동일한 결과)
+```python
+def dfs(idx, path, n, r):
+    if len(path) == r:
+        print(path)
+        return
+
+    for i in range(idx, n):
+        dfs(i, path + [arr[i]], n, r)  # i+1 대신 i를 넘겨줌 (중복 허용)
+
+arr = [10, 20, 30, 40]
+r = 2  # 2개를 뽑는 중복 조합
+dfs(0, [], len(arr), r)
+```
+
 ## 프림(Prim)
 ```python
 import heapq
